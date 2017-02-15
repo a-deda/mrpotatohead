@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mr. Potatohead</string>
+    <string name="cb1">Arms</string>
+    <string name="cb2">Ears</string>
+    <string name="cb3">Eyebrows</string>
+    <string name="cb4">Eyes</string>
+    <string name="cb5">Glasses</string>
+    <string name="cb6">Hat</string>
+    <string name="cb7">Mouth</string>
+    <string name="cb8">Mustache</string>
+    <string name="cb9">Nose</string>
+    <string name="cb10">Shoes</string>
+</resources>
